@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-pasporta-s-vyvodom.github.io
+Sitemap: https://kazino-bez-pasporta-s-vyvodom.github.io/sitemap.xml
